@@ -33,6 +33,7 @@ public class test {
         });
         proxyActor.basicAct(10000);
         proxyActor.dangerAct(20000);
+        System.out.println("添加了一些操作1");
     }
 
 }
